@@ -86,7 +86,8 @@ and these:
 boost::posix_time::milliseconds(1000.0f)
 
 with:
-boost::posix_time::milliseconds(1000)
+boost::pisix_time::milliseconds(1000)
+
 -----------------------------------------------------------------------------
 22. rosdep install --from-paths src --ignore-src --rosdistro melodic -y
 
